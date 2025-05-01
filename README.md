@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punsnprotons
 - 👀 I’m interested in ML, AR, and pretty much anything transformative & innovate 
-- 🌱 I’m currently the co-founder of Wubble AI - the fastest music AI 
+- 🌱 I’m currently the co-founder of Wubble AI - the fastest music AI https://www.wubble.ai
 - 📫 How to reach me : sufi@wubble.ai
 
 <!---
