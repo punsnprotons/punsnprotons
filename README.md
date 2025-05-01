@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @punsnprotons
 - 👀 I’m interested in ML, AR, and pretty much anything transformative & innovate 
-- 🌱 I’m currently an early stage VC and entrepreneur  
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me : shaadpyaralisufi@gmail.com
+- 🌱 I’m currently the co-founder of Wubble AI - the fastest music AI 
+- 📫 How to reach me : sufi@wubble.ai
 
 <!---
 punsnprotons/punsnprotons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
